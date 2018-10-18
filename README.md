@@ -1,5 +1,8 @@
 # example-of-es6-babel
 
+**It is a small exmaple of Javacript es6 with babel**  
+please execute => babel --watch objectExamples.js --out-file es5.js
+
 **1.-what is it "use strict"?**
  Defines that JavaScript code should be executed in "strict mode".
 
