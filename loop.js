@@ -1,4 +1,5 @@
 //babel --watch loop.js --out-file es5.js
+//http://localhost:63342/example-of-es6-babel/index.html?_ijt=17sobvg3e2s9acn027nouo4k19
 outerloop: // This is the label name
     for (var i = 0; i < 5; i++) {
         console.log("Outerloop: " + i);
